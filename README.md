@@ -1,4 +1,5 @@
 | 1  | Logical and Computational Thinking               |
+|----|--------------------------------------------------|
 | 2  | Diving Into Python                               |
 | 3  | More Python                                      |
 | 4  | Technical Solution Design                        |
